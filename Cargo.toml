@@ -1,0 +1,9 @@
+[package]
+name = "guess_game"
+version = "0.1.0"
+authors = ["EbichanOO <takanori.sao@icloud.com>"]
+edition = "2018"
+
+[dependencies]
+
+rand="0.3.0"
